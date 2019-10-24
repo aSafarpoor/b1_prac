@@ -1,0 +1,30 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega1280</DEVICE>
+ <WORKING_DIR>D:\98-99-01\15\example1</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\98-99-01\15\example1\example1.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m1280def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\98-99-01\15\example1\example1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>D:\98-99-01\15\example1\example1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>D:\98-99-01\15\example1\example1.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <L4><FILE>D:\98-99-01\15\example1\example1.asm</FILE><LINE>9</LINE></L4>
+  <START1><FILE>D:\98-99-01\15\example1\example1.asm</FILE><LINE>14</LINE></START1>
+  <DELAY><FILE>D:\98-99-01\15\example1\example1.asm</FILE><LINE>34</LINE></DELAY>
+  <START2><FILE>D:\98-99-01\15\example1\example1.asm</FILE><LINE>22</LINE></START2>
+  <L1><FILE>D:\98-99-01\15\example1\example1.asm</FILE><LINE>36</LINE></L1>
+  <L2><FILE>D:\98-99-01\15\example1\example1.asm</FILE><LINE>37</LINE></L2>
+  <L3><FILE>D:\98-99-01\15\example1\example1.asm</FILE><LINE>38</LINE></L3>
+ </LABELS>
+</ASSEMBLER_INFO>
